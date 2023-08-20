@@ -37,6 +37,7 @@ define( 'DB_CHARSET', 'utf8mb4' );
 /** The database collate type. Don't change this if in doubt. */
 define( 'DB_COLLATE', '' );
 
+
 /**#@+
  * Authentication unique keys and salts.
  *
@@ -67,6 +68,7 @@ define( 'NONCE_SALT',       '=PM{#-OZ_g3iR)qK}++Quz+(|gHtjN,MW1F/{eX}]1_D5< pE{b
  */
 $table_prefix = 'wp_';
 
+
 /**
  * For developers: WordPress debugging mode.
  *
@@ -80,6 +82,7 @@ $table_prefix = 'wp_';
  * @link https://wordpress.org/documentation/article/debugging-in-wordpress/
  */
 define( 'WP_DEBUG', false );
+
 
 /* Add any custom values between this line and the "stop editing" line. */
 
